@@ -40,4 +40,4 @@ POD_CIDR: "10.2.0.0/16"
 CLUSTER_DNS_DOMAIN: "cluster.local."
 
 #设置Docker Registry地址
-DOCKER_REGISTRY: "http://192.168.56.11:5000"
+#DOCKER_REGISTRY: "http://192.168.56.11:5000"
